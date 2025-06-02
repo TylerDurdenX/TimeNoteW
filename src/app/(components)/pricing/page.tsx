@@ -233,7 +233,7 @@ const PricingComponent = () => {
         </div>
 
         {/* Trust Badges */}
-        <div className="text-center mb-20">
+        {/* <div className="text-center mb-20">
           <div className="bg-white rounded-2xl shadow-lg p-8 max-w-4xl mx-auto border border-gray-200">
             <h3 className="text-2xl font-bold text-gray-900 mb-6">
               Trusted by thousands of teams worldwide
@@ -283,7 +283,7 @@ const PricingComponent = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* FAQ Section */}
         <div className="max-w-4xl mx-auto">
